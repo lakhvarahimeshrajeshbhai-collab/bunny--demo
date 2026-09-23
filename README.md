@@ -1,4 +1,6 @@
 # bunny--demo
 This is my first git repository. 
 <br>
-author - himesh (master)
+author - Himesh (master)
+user - himesh 2 ( bunny)
+
